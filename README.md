@@ -20,5 +20,5 @@ The following figure depicts the reference energy system in OSEMOSYS-GR as it cu
 ## Citing OSeMOSYS-GR
 Please cite OSeMOSYS-GR as:
 - Kleanthis, N., Stavrakas, V., Flamos, A. Bidirectional soft-linking of a Capacity Expansion Model with a Production Cost Model to evaluate the feasibility of transition pathways towards carbon neutrality in the power sector, Applied Energy, Volume 378, Part B, 2025, 124843, [https://doi.org/10.1016/j.apenergy.2024.124843](https://doi.org/10.1016/j.apenergy.2024.124843).
-
-
+## License
+The OSeMOSYS-GR model, consisting of the provided open access data its model factsheet, is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0); a copy is available here: https://creativecommons.org/licenses/by/4.0/. You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material for any purpose, even commercially) under the following terms: (i) attribution (you must give appropriate credit, provide a link to the license, and indicate if changes were made; you may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use); (ii) no additional restrictions (you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits).
