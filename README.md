@@ -16,4 +16,4 @@ In the OSeMOSYS-GR reference energy system (Fig. 1), the electricity supply syst
 The following figure depicts the reference energy system in OSEMOSYS-GR as it currently stands.
 ![image](https://github.com/user-attachments/assets/6ba26f30-9941-4b33-b896-3c8a0fec8bb8)
 ## Model factsheet
-  Find the model factsheet here.[https://zenodo.org/records/14223712](https://zenodo.org/records/14223712)
+  Find the model factsheet in Zenodo [https://zenodo.org/records/14223712](https://zenodo.org/records/14223712)
