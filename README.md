@@ -17,5 +17,8 @@ The following figure depicts the reference energy system in OSEMOSYS-GR as it cu
 ![image](https://github.com/user-attachments/assets/6ba26f30-9941-4b33-b896-3c8a0fec8bb8)
 ## Model factsheet
   Find the model factsheet in Zenodo. [https://zenodo.org/records/14223712](https://zenodo.org/records/14223712)
+## Citing OSeMOSYS-GR
+Please cite OSeMOSYS-GR as:
+- Kleanthis, N., Stavrakas, V., Flamos, A. Bidirectional soft-linking of a Capacity Expansion Model with a Production Cost Model to evaluate the feasibility of transition pathways towards carbon neutrality in the power sector, Applied Energy, Volume 378, Part B, 2025, 124843, [https://doi.org/10.1016/j.apenergy.2024.124843](https://doi.org/10.1016/j.apenergy.2024.124843).
 
 
