@@ -3,8 +3,7 @@
 ## Contents
 - [Contents](#contents)
 - [About](#about)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
+- [Model factsheet](#model-factsheet)
 - [Citing OSeMOSYS-GR](#citing-osemosys-gr)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -14,6 +13,9 @@ The Greek capacity expansion model (CEM), **O**pen **S**ource energy **MO**delli
 In the OSeMOSYS-GR reference energy system (Fig. 1), the electricity supply system is represented by importing and extraction technologies, fossil-fired power plants using lignite, natural gas, and oil (planned investments in fossil-fired power plants are modelled exogenously), renewable energy technologies (i.e., hydro, wind onshore and offshore, solar photovoltaics, biomass, geothermal), battery energy storage systems and pumped hydro storage, hydrogen production and consumption (namely electrolysers and fuel cells), transmission, and distribution systems, as well as interconnections with neighbouring countries. The total number of technologies is 68. Each technology receives as an input and has as an output a commodity (such as natural gas, electricity, hydrogen, etc.). The total number of commodities is 15.
 
 The following figure depicts the reference energy system in OSEMOSYS-GR as it currently stands.
+
 ![image](https://github.com/user-attachments/assets/6ba26f30-9941-4b33-b896-3c8a0fec8bb8)
 ## Model factsheet
-  Find the model factsheet in Zenodo [https://zenodo.org/records/14223712](https://zenodo.org/records/14223712)
+  Find the model factsheet in Zenodo. [https://zenodo.org/records/14223712](https://zenodo.org/records/14223712)
+
+
